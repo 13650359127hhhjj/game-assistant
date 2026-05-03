@@ -1,0 +1,15 @@
+# 智能游戏错误诊断与资源下载辅助系统
+# 依赖清单
+
+# 核心依赖（Python 3.8+ 内置，无需额外安装）
+# tkinter - Python标准库，用于GUI开发
+# logging - Python标准库，用于日志记录
+# threading - Python标准库，用于多线程处理
+
+# 可选依赖（增强功能）
+# pytest>=7.0.0          # 单元测试框架（开发时使用）
+# coverage>=6.0.0        # 代码覆盖率工具（开发时使用）
+
+# 本项目主要使用Python标准库，无需额外安装依赖
+# 如需运行测试，可安装：
+# pip install pytest coverage
